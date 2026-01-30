@@ -14,14 +14,16 @@
 
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=5AF74C&background=000000&center=true&vCenter=true&width=1400&lines=<  >" />
-    </div><br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5AF74C&background=000000&center=true&vCenter=true&width=800&lines=%3C+%3E)](https://git.io/typing-svg)
+
+</div>
 
 ## Sobre mim
 
 > Sou arquiteta em transição de carreira para Tecnologia da Informação e estudante de Análise e Desenvolvimento de Sistemas. Minha migração nasceu da prática: atuei na análise de processos e na estruturação de sistemas internos de gestão, centralizando dados corporativos e organizando fluxos de informação em ambiente online. Essa experiência despertou meu interesse pelo desenvolvimento real de sistemas, envolvendo lógica, dados e arquitetura de processos. 
 
-## 🎯 Objetivos
+## Objetivos
 
 > ### Intenção <br>
 ✅ Conquistar primeira vaga como **estagiária** em TI <br>
@@ -124,7 +126,7 @@
 
 </div>
 
-## > Progresso de Aprendizado Contínuo
+## Progresso de Aprendizado Contínuo
 
 <div align="center">
 <br>
@@ -142,7 +144,7 @@
 </div>
 <br>
 
-## 📚 Cursos e Certificações
+## Cursos e Certificações
 
 - [BOOTCAMP - Introdução à Experiência Santander 2015](https://hermes.dio.me/certificates/YR3OK4GA.pdf) | DIO | Santander | Julho 2025
     - [Ambiente de Desenvolvimento е Primeiros Passos com Python](https://hermes.dio.me/certificates/CDCA9E0V.pdf) 
@@ -153,10 +155,7 @@
 <br>
 <br>
 
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=5AF74C&background=000000&center=true&vCenter=true&width=800&lines=Obrigada!+%7C+Thank you!" />
-
-</div><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5AF74C&background=000000&center=true&vCenter=true&width=800&lines=Obrigada+|+Thank+You!)](https://git.io/typing-svg)
 
 
 <div align="center">
