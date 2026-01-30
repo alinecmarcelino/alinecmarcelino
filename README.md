@@ -1,27 +1,22 @@
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=5AF74C&background=000000&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+Bem+vindo!+%7C+Hello%2C+Welcome!" />
-    </div><br>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=50&size=35&pause=1000&color=5AF74C&background=0D111700&center=true&vCenter=true&width=800&lines=Bem+vindo!+%7C+Welcome!)](https://git.io/typing-svg)
 
-<div align="center">
-    <h1>Aline Marcelino</h1>
-    Estudante de Análise e Desenvolvimento de Sistemas <br>
-    Arquiteta em transição para Tecnologia da Informação | Desenvolvimento de Software <br>
-    📍 Santos/ São Paulo e Região (Presencial/ Híbrido/ Remoto)<br>
-    Em busca de estágio em TI
-    </div><br>
+---
+### Me chamo Aline Marcelino, prazer!
 
+Estudante de Análise e Desenvolvimento de Sistemas <br>
+Arquiteta em transição para Tecnologia da Informação | Desenvolvimento de Software <br>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5AF74C&background=000000&center=true&vCenter=true&width=800&lines=%3C+%3E)](https://git.io/typing-svg)
+Em busca de estágio em TI<br>
+📍 Santos/ São Paulo e Região (Presencial/ Híbrido/ Remoto)<br>
 
 </div>
 
 ## Sobre mim
 
-> Sou arquiteta em transição de carreira para Tecnologia da Informação e estudante de Análise e Desenvolvimento de Sistemas. Minha migração nasceu da prática: atuei na análise de processos e na estruturação de sistemas internos de gestão, centralizando dados corporativos e organizando fluxos de informação em ambiente online. Essa experiência despertou meu interesse pelo desenvolvimento real de sistemas, envolvendo lógica, dados e arquitetura de processos. 
+Sou arquiteta em transição de carreira para Tecnologia da Informação e estudante de Análise e Desenvolvimento de Sistemas. Minha migração nasceu da prática: atuei na análise de processos e na estruturação de sistemas internos de gestão, centralizando dados corporativos e organizando fluxos de informação em ambiente online. Essa experiência despertou meu interesse pelo desenvolvimento real de sistemas, envolvendo lógica, dados e arquitetura de processos. 
 
 ## Objetivos
 
@@ -75,7 +70,7 @@
     - Levantamento de Requisitos e Relacionamento com Stakeholders;
 
 
-## 📂 Estudos Acadêmicos
+## Estudos Acadêmicos
 
 > ### Projetos acadêmicos em andamento:
 - Exercícios de lógica de programação
@@ -155,29 +150,27 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5AF74C&background=000000&center=true&vCenter=true&width=800&lines=Obrigada+|+Thank+You!)](https://git.io/typing-svg)
-
 
 <div align="center">
 
-Bate-papo | Colaborações | Networking | Mentorias 
+---
 ### **• •  CONTATO  • •** <br>
+### Bate-papo | Colaborações | Networking | Mentorias <br>
 📧 alinecmarcelino@outlook.com  
 📍 Santos, São Paulo, Brasil
 
-[LinkedIn](https://www.linkedin.com/in/alinemarcelinoo) | [GitHub](https://github.com/alinecmarcelino) | [Whatsapp](https://wa.me/55139997730674) | [Instagram](#)
+[LinkedIn](https://www.linkedin.com/in/alinecmarcelinoo) | [GitHub](https://github.com/alinecmarcelino) | [Whatsapp](https://wa.me/5513997730674) | [Instagram](https://www.instagram.com/alinemarcelino6.0/)
 
----
 
 ⭐ Se você gostou do perfil, deixe uma estrela nos repositórios ⭐<br>
 Todo feedback é bem vindo!
+
+
+"Todo arquiteto é um programador em potencial, <br>
+pois ambos criam estruturas que transformam ideias em realidade."<br>
 </div>
 
 ---
 
-<div align="center">
-
-### "Todo arquiteto é um programador em potencial, pois ambos criam estruturas que transformam ideias em realidade."<br>
-<br>
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5AF74C&background=0D111700&center=true&vCenter=true&width=800&lines=Obrigada!+%7C+Thanks!)](https://git.io/typing-svg)
 
